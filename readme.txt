@@ -7,4 +7,3 @@ To train models: 1.run unsupervised algorithm
 
 
 "Ensure the paths to data are correct before using any code"
-"The files having .edf are the eeg signal files"
